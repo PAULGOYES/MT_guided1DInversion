@@ -1,2 +1,2 @@
-# MT_guided1DInversion
+# Physically Guided Deep Unsupervised Inversion  for 1D Magnetotelluric Models
 Repository with data and codes 

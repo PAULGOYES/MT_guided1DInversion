@@ -1,2 +1,3 @@
 # Physically Guided Deep Unsupervised Inversion  for 1D Magnetotelluric Models
-Repository with data and codes 
+This repository contains the data and codes used in the paper [Physically Guided Deep Unsupervised Inversion for 1D
+Magnetotelluric Models]. 
